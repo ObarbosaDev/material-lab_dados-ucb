@@ -45,6 +45,20 @@ Descricao:
 - cria todas as tabelas e relacionamentos do modelo final;
 - aplica as restricoes pedidas no enunciado.
 
+### Atividade 4
+Pasta: `atividade4`
+
+Arquivo:
+- `script_dml.sql`
+
+Descricao:
+- contem a carga inicial de dados para o banco `biblioteca_pessoal`;
+- inclui comandos `INSERT`, `SELECT`, `UPDATE` e `DELETE`;
+- consulta livros da autora `J.K. Rowling`;
+- consulta livros da categoria `Filosofia`;
+- altera a categoria `Filosofia` para `Censurado`;
+- deleta os livros vinculados a categoria `Censurado`.
+
 ## Banco utilizado
 
 Os scripts foram escritos pensando em MySQL, usando recursos como:
